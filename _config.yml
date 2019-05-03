@@ -34,8 +34,8 @@ kramdown:
 #
 owner:
   name: Bryan Tran
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
+  avatar:
+  job: "Bryan Tran"
   bio: "MSc Transportation Engineering @ UAlberta. Read on for my city building shenanigans."
   email:
   disqus-shortname:
