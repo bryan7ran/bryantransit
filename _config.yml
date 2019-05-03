@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Bryan Tran
 email:
 description: MSc Transportation Engineering @ UAlberta. Read on for my city building shenanigans.
 url: # the base hostname & protocol for your site
@@ -36,7 +36,7 @@ owner:
   name: Leonids
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "MSc Transportation Engineering @ UAlberta. Read on for my city building shenanigans."
   email:
   disqus-shortname:
   twitter: #username
