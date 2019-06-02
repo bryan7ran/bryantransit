@@ -5,7 +5,7 @@
 #
 title: Bryan Tran
 email:
-description: MSc Transportation Engineering @ UAlberta. Read on for my city building shenanigans.
+description: Travel hacker. Data sleuth. City builder. MSc Transportation Engineering @ UAlberta.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -37,7 +37,7 @@ owner:
   name: Bryan Tran
   avatar:
   job: 
-  bio: "MSc Transportation Engineering @ UAlberta. Read on for my city building shenanigans."
+  bio: "Travel hacker. Data sleuth. City builder. MSc Transportation Engineering @ UAlberta."
   email:
   disqus-shortname:
   twitter: #username
