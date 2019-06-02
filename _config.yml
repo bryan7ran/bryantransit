@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          America/Edmonton
+timezone:          
 markdown:          kramdown
 google_analytics:  UA-139521162-1
 highlighter:       rouge
@@ -52,7 +52,7 @@ owner:
   github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: bryan7ran
   skype: #username
   xing: #username
   instagram: infrastructuretourist
