@@ -19,4 +19,6 @@ The best way to keep track of my activity is to follow or connect with me on [Li
 
 I'm also experimenting with tooltips inline for acronyms and stuff! 
 
-<div class="tooltip">Hover over me<span class="tooltiptext">Tooltip text</span></div>
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
