@@ -19,7 +19,7 @@ The best way to keep track of my activity is to follow or connect with me on [Li
 
 EDIT June 12: I'm also experimenting with tooltips inline for acronyms and other technical info that I'd like to include in blog! But learning CSS is proving to be a bit difficult. My latest success:
 
-Test test test test <div class="tooltip">Air Canada 175
-  <span class="tooltiptext">Toronto (YYZ) to Edmonton (YEG) @ 21:50</span>
+Test test test test <div class="tooltip">Air Canada 3
+  <span class="tooltiptext">Vancouver (YVR) to Tokyo-Narita (NRT) @ 13:50</span>
 </div> and then we continue writing in Markdown
 
