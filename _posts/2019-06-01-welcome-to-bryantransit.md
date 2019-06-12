@@ -16,3 +16,5 @@ Welcome to my site! I hope to populate this page with fun data analysis and ridi
 * Me racing the LRT and winning
 
 The best way to keep track of my activity is to follow or connect with me on [LinkedIn](https://www.linkedin.com/in/bryan7ran/)!
+
+I'm also experimenting with tooltips inline for acronyms and stuff! <div class="tooltip">Hover over me<span class="tooltiptext">Tooltip text</span></div>
