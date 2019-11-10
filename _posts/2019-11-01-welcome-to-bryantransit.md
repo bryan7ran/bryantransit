@@ -8,7 +8,7 @@ tags: announcements general news
 ---
 Welcome to my site! I hope to populate this page with fun data analysis and ridiculous data collection methodology I've been working on over the years. Some stuff I'm currently working on:
 
-* Collecting 3 million Twitter geoObjects over an entire month to see if they paint a map (to be blogged December 2019!)
+* Collecting 7 million Twitter geoObjects over an entire month to see if they paint a map (to be blogged December 2019!)
 * Shortest path algorithms applied to Japanese train networks (to be blogged December 2019!)
 * Mapping my transit activity over the year and see how implementing distance-based pricing would change my travel
 * I'm keeping a travel diary over the entire year (to be blogged early 2020)
