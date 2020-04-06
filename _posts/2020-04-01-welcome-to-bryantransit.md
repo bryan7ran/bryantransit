@@ -19,7 +19,7 @@ Welcome to my site! I hope to populate this page with fun data analysis and ridi
 
 The best way to keep track of my activity is to follow or connect with me on [LinkedIn](https://www.linkedin.com/in/bryan7ran/)!
 
-EDIT November 2: I'm also experimenting with tooltips inline for acronyms and other technical info that I'd like to include in blog! But learning CSS is proving to be a bit difficult. My latest success:
+EDIT April 2: I'm also experimenting with tooltips inline for acronyms and other technical info that I'd like to include in blog! But learning CSS is proving to be a bit difficult. My latest success:
 
 <body>Test test test test <div class="tooltip">Air Canada 3
   <span class="tooltiptext">Vancouver (YVR) to Tokyo-Narita (NRT) @ 13:50</span>
